@@ -3,4 +3,4 @@ Allow: /
 
 Disallow: /gracias/
 
-Sitemap: https://tu-dominio.com/sitemap.xml
+Sitemap: https://dosjunio2026.netlify.app/sitemap.xml
